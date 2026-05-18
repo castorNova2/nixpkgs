@@ -4530,6 +4530,12 @@
     githubId = 1945;
     name = "Casey Rodarmor";
   };
+  castorNova2 = {
+    email = "solemnsquire@gmail.com";
+    github = "castorNova2";
+    githubId = 84083897;
+    name = "Nidhish Chauhan";
+  };
   catap = {
     email = "kirill@korins.ky";
     github = "catap";
